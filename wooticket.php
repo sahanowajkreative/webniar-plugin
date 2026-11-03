@@ -3,8 +3,7 @@
 Plugin Name: Woo Ticket
 Description: Woo Ticket is a plugin for ticketing system.
 Version: 1.6
-Author: Creative813 Team
-Author URI: https://www.creative813.com/
+Author: Sahanowaj Sikder
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: ticket
