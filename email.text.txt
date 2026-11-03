@@ -1,0 +1,30 @@
+Marksman:
+Content for email and text messages:
+Send a notification  to the individual identified “Selected Attendee” to receive the door prize (the winner); and then copy  ffl@marksmanreview.com in the email. Content for that email:
+Subject: “Congratulations: #112074 Smith & Wesson M&P15-22 W/Brace .22LR
+Congratulations, “Insert selected attendee name”
+You have been selected as the recipient of the following Free Door Prize: “#112074 Smith & Wesson M&P15-22 W/Brace .22LR”.
+All Firearms must ship to a VALID FFL of your choosing. If you do not know of an FFL in your local area you can search for one at this link:
+www.fflgundealers.net
+If you were selected to receive a Non-FFL required item, it will be shipped to the address that you provided in your profile.
+PLEASE NOTE:
+It is important that you contact the Transfer FFL you choose for their FFL Transfer terms and fees. PLEASE have them email a copy of their FFL and reference your name in the email to: ffl@marksmanreview.com
+A tracking number will be emailed to you. Please check your spam folder.
+Thank you,
+www.MarksmanReview.com
+
+Send an email to info@marksmanreview.com when a webinar is sold out. Content of the email:
+#105744 Glock G19 Gen5 4.02″ 9mm 1-15rd, 3-10rd MAGs Sold Out
+
+------------------------------
+Send an email to info@marksmanreview.com when an attendee is selected to receive the prize. Content for email:
+Subject Line: “Selected Attendee for Webinar: #105744 Glock G19 Gen5 4.02" 9mm 1-15rd, 3-10rd MAGs is [insert attendee name]”
+#105744 Glock G19 Gen5 4.02" 9mm 1-15rd, 3-10rd MAGs
+Name: [insert attendee name]
+Email: [insert attendee email]
+Phone Number: [insert attendee phone number]
+Address of Attendee: [insert attendee address]
+Date and Time of Being Selected: 2021-08-21T17:09:47
+-------------------------------
+Send a text and email to all customers when a new webinar is posted to website. Content for both email and text message:
+New Webinar #108706 CITADEL BOSS-25 AR 12 GA is added! You can view the product details at here... http://www.marksmanreview.com/108706-citadel-boss-25-ar-12-ga

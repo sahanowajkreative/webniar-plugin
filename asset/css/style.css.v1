@@ -1,0 +1,154 @@
+.clear{clear:both;}
+.ticket-dashboard {
+    background: #eee;
+    padding: 1rem .5rem;
+}
+ul.my-tickets{
+	margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    text-align: center;
+	position:relative;
+}
+ul.my-tickets li{
+	width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background: #fff;
+    margin: 0 0 7px 0;
+	position:relative;
+}
+ul.my-tickets li label{
+	position:relative;
+	display:block;
+}
+ul.my-tickets li span{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 30px;
+    vertical-align: middle;
+	position: absolute;
+	top:0;
+    left: 0;
+    right: 0;
+	color:#777;
+	outline:2px solid #777;
+	cursor:pointer;
+	
+}
+.ticket-dashboard h4 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    text-align: left;
+    margin: 0 0 .5rem;
+	float:left;
+	width:50%;
+}
+.ticket-dashboard .seat-available{
+	text-transform: uppercase;
+    font-size: 1rem;
+    text-align: right;
+    margin: 0 0 .5rem;
+	float:left;
+	width:50%;
+}
+.ticket-dashboard h4 strong{
+	margin-left:1rem;
+	color:#999;
+}
+
+.single-product form.cart .ticket-dashboard .ticket-box{
+	width:100%;
+	border:none;
+	-webkit-appearance: none;
+    -moz-appearance: none;
+	appearance: none;
+    position: relative;
+}
+.single-product form.cart .ticket-dashboard .ticket-box:after{display:none;}
+.ticket-dashboard input[type=checkbox]:focus{
+	outline:none;
+}
+.ticket-dashboard input[type=checkbox]:checked+span {
+    color:#0f5132;
+	outline-color:#0f5132;
+	background-color: #d1e7dd;
+}
+.ticket-dashboard input[type=checkbox]:disabled+span {
+    color: #999;
+    outline-color: #999;
+    background-color: #ccc;
+	cursor:not-allowed;
+}
+
+.ticket-dashboard .proceed-cart-info{
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    padding: .5rem 0 1rem;
+    transition: 0.5s all;
+	z-index:999;
+	box-shadow: 8px 8px 7px 9px rgba(0,0,0,0.5);
+}
+.ticket-dashboard .proceed-cart-info ul{
+	list-style:none;
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+.ticket-dashboard .proceed-cart-info ul li{
+	display:inline-block;
+	margin:0 0.5rem;
+	font-size:1rem;
+}
+.ticket-dashboard span.tbtn{
+	width:24px;
+	height:24px;
+	display:inline-block;
+    vertical-align: middle;
+    color: #777;
+    outline: 2px solid #777;
+    cursor: pointer;
+}
+.ticket-dashboard span.tbtn-sold{
+    color: #999;
+    outline-color: #999;
+    background-color: #ccc;
+}
+.ticket-dashboard span.tbtn-selected{
+    color: #0f5132;
+    outline-color: #0f5132;
+    background-color: #d1e7dd;
+}
+
+.ticket-dashboard .proceed-cart {
+	display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    padding: .5rem 0 1rem;
+    transition: 0.5s all;
+	z-index:1000;
+	box-shadow: 8px 8px 7px 9px rgba(0,0,0,0.5);
+	text-align:center;
+}
+.ticket-dashboard .tbtn-button{
+	float:none !important;
+}
+.ticket-dashboard .prc-qty{
+	font-size:1rem;
+	margin: 0 0 .5rem;
+	
+}
+.list-ticket-avialble{color:#5d5d5d}
+.list-ticket-avialble span{
+	text-transform:capitalize;
+	color:#333;
+}
